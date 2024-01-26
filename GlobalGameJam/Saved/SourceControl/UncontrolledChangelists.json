@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/TestLevel/TextLevel.umap",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_MusicTrack.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_MusicPoint.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/NewInputMappingContext.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_Character.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_MusicCharacter.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_Performance.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_PeopleSelect.uasset",
 				"D:/Learn/Gaming_Design/UnrealProjects/GlobalGameJam/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
