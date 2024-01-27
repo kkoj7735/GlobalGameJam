@@ -8,11 +8,18 @@
 				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/TestLevel/TextLevel.umap",
 				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_MusicTrack.uasset",
 				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_MusicPoint.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_Performance.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_PeopleSelect.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Input/Click_IA.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Input/IMC_Control.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_Player.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_PlayerPawn.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_MusicGameMode.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Input/UP_IA.uasset",
+				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Input/Down_IA.uasset",
 				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/NewInputMappingContext.uasset",
 				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_Character.uasset",
 				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_MusicCharacter.uasset",
-				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_Performance.uasset",
-				"D:/Learn/GIT/GGJ_Location/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_PeopleSelect.uasset",
 				"D:/Learn/Gaming_Design/UnrealProjects/GlobalGameJam/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
