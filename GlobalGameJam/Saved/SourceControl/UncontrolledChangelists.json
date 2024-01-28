@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/GGJ/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/TestLevel/TextLevel.umap",
+				"F:/GGJ/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_SpawnPoint.uasset",
+				"F:/GGJ/GlobalGameJam/GlobalGameJam/Content/Dongjingyuan/Blueprints/BP_MusicTrack.uasset",
+				"F:/GGJ/GlobalGameJam/GlobalGameJam/Content/SFX/Chuang.uasset",
+				"F:/GGJ/GlobalGameJam/GlobalGameJam/Content/SFX/Drum.uasset",
+				"F:/GGJ/GlobalGameJam/GlobalGameJam/Content/SFX/Kick.uasset",
 				"F:/GitHub/GlobalGameJam/GlobalGameJam/Content/DialogueSystem/Characters/BPC_Narrator.uasset",
 				"F:/GitHub/GlobalGameJam/GlobalGameJam/Content/DialogueSystem/Characters/BP_Narrator.uasset",
 				"F:/GitHub/GlobalGameJam/GlobalGameJam/Content/DialogueSystem/Characters/DataTable/DT_Dialogue_narrator.uasset",
